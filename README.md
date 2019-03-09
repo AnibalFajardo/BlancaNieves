@@ -1,2 +1,2 @@
-# Cerditosylobo
-Descripción del cuento de los tres cerditos y el lobo feroz
+# BlancaNieves
+Descripción del cuento de de Blanca Nieves
